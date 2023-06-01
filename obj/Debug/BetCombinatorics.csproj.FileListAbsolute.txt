@@ -1,0 +1,11 @@
+C:\Users\VarakinAA\source\repos\BetCombinatorics\bin\Debug\BetCombinatorics.exe.config
+C:\Users\VarakinAA\source\repos\BetCombinatorics\bin\Debug\BetCombinatorics.exe
+C:\Users\VarakinAA\source\repos\BetCombinatorics\bin\Debug\BetCombinatorics.pdb
+C:\Users\VarakinAA\source\repos\BetCombinatorics\obj\Debug\BetCombinatorics.csproj.AssemblyReference.cache
+C:\Users\VarakinAA\source\repos\BetCombinatorics\obj\Debug\BetCombinatorics.csproj.SuggestedBindingRedirects.cache
+C:\Users\VarakinAA\source\repos\BetCombinatorics\obj\Debug\BetCombinatorics.Properties.Resources.resources
+C:\Users\VarakinAA\source\repos\BetCombinatorics\obj\Debug\BetCombinatorics.csproj.GenerateResource.cache
+C:\Users\VarakinAA\source\repos\BetCombinatorics\obj\Debug\BetCombinatorics.csproj.CoreCompileInputs.cache
+C:\Users\VarakinAA\source\repos\BetCombinatorics\obj\Debug\BetCombinatorics.exe
+C:\Users\VarakinAA\source\repos\BetCombinatorics\obj\Debug\BetCombinatorics.pdb
+C:\Users\VarakinAA\source\repos\BetCombinatorics\obj\Debug\BetCombinatorics.MainForm.resources
